@@ -1,76 +1,74 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<h1 align="center">Hi there, I'm Sunny Kumar Sinha! 👋</h1>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thesunnysinha">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/thesunnysinha">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.sunnysinha.online">
-    <img src="https://img.shields.io/badge/Portfolio-lightgrey?logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+  <h1>Welcome to <strong>Sunny Kumar Sinha's GitHub</strong> 🌟</h1>
+  <p><strong>Exploring Automation, AI, and Scalable Solutions</strong></p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate software developer with experience in designing and deploying scalable applications, integrating advanced AI-driven solutions, and streamlining workflows with automation. I specialize in **Python, Django, React, DevOps, and AI/ML**, with a proven track record of driving operational efficiency and enhancing user experiences.
+# **About Me**  
+Hi! I'm **Sunny Kumar Sinha**, a passionate software developer with expertise in designing and deploying scalable, efficient solutions. I specialize in automation, AI-powered tools, and seamless deployment processes.  
 
-- 🌟 Currently working as a **Member of Technical Staff** at **Dwellfi**, creating cutting-edge AI-driven solutions.
-- 🚀 Built impactful projects like [Jingo](#-projects) and [Andocs](#-projects), revolutionizing education and e-commerce.
-- 📚 Lifelong learner, constantly exploring the latest in tech and AI.
-
----
-
-### 🔧 Skills & Technologies
-#### Programming Languages:
-`Python`, `Java`, `JavaScript`, `TypeScript`, `C`, `SQL`, `HTML/CSS`
-
-#### Frameworks & Libraries:
-`Django`, `FastAPI`, `React`, `Next.js`, `LangChain`, `LlamaIndex`
-
-#### DevOps & Monitoring:
-`Docker`, `Ansible`, `Redis`, `Prometheus`, `Grafana`, `Kibana`
-
-#### AI & Machine Learning:
-`Pandas`, `Scikit-learn`, `LangFlow`, `RAG`
-
-#### Tools:
-`PostgreSQL`, `Celery`, `PgBouncer`, `Swagger`, `GitHub Actions`
+- 🌟 **Open to Collaborations** on exciting projects.  
+- 🚀 Always striving to innovate and simplify processes.  
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/thesunnysinha) or check out my [Portfolio](https://www.sunnysinha.online).  
 
 ---
 
-### 🌟 Highlights from My Work
-#### 🛠 Projects
-1. **[Jingo](https://github.com/thesunnysinha/Jingo)**  
-   - AI-powered learning platform with quiz generation, intelligent study assistant, and personalized libraries.
-   - Achieved 30% reduction in study time and 25% better learning outcomes.
+## 🚀 Projects  
 
-2. **[Andocs](https://github.com/thesunnysinha/Andocs-Previous)**  
-   - E-commerce web app supporting 10,000+ products with ML-powered recommendation system.
-   - Enhanced user engagement and streamlined client-server communication.
+### 1. **[VM Setup Tool](https://pypi.org/project/vm-tool/)**  
+**GitHub Repository**: [vm_tool](https://github.com/thesunnysinha/vm_tool.git)  
+
+A Python package designed to simplify and automate virtual machine setup and configuration using **Ansible**. The tool supports both local and cloud VM setups with features like Docker installation, service activation, and SSH key management.  
+
+#### 🔑 Key Features:  
+- Automates Docker and Docker Compose installations.  
+- Streamlines local and cloud VM setups.  
+- Includes an SSH client for secure VM access.  
+
+#### 📦 Installation:  
+```bash
+pip install vm-tool
+```
+
+#### Example Usage:  
+```python
+from vm_tool.runner import SetupRunner, SetupRunnerConfig
+
+config = SetupRunnerConfig(
+    github_username='your_github_username',
+    github_token='your_github_token',
+    github_project_url='your_github_project_url'
+)
+
+runner = SetupRunner(config)
+runner.run_setup()
+```
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesunnysinha&show_icons=true&theme=radical" alt="Sunny's GitHub Stats"/>
-</div>
+### 2. **[Jingo](https://github.com/thesunnysinha/Jingo)**  
+An AI-powered learning platform offering personalized study material, intelligent quiz generation, and efficient document management.  
+- Built with **Django**, **LangChain**, and **Next.js**.  
+- Enhanced student engagement by 25% and reduced study time by 30%.  
 
 ---
 
-### 🌐 Let's Connect
-- 🌍 [Portfolio](https://www.sunnysinha.online)  
-- 🖇️ [LinkedIn](https://www.linkedin.com/in/thesunnysinha)  
-- 🛠️ [GitHub](https://github.com/thesunnysinha)  
+### 3. **[Andocs](https://github.com/thesunnysinha/Andocs-Previous)**  
+An e-commerce platform supporting 10,000+ products with an ML-powered recommendation system.  
+- Developed using **React.js**, **Django**, and **AWS**.  
+- Improved user engagement and conversion rates with personalized recommendations.  
+
+---
+
+## 🌟 Contributions  
+
+I welcome contributions to enhance my projects and explore new ideas together. If you're interested, feel free to raise issues, fork repositories, or start a discussion on [GitHub](https://github.com/thesunnysinha)!  
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="400" alt="Coding GIF"/>
+  <h3>Let's Simplify, Automate, and Innovate Together! 💡</h3>
+  <img src="https://media.giphy.com/media/5WJ6SOKeEFeS1DPj2f/giphy.gif" width="400"/>
 </div>
