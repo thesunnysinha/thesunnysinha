@@ -37,9 +37,7 @@ pip install vm-tool
 from vm_tool.runner import SetupRunner, SetupRunnerConfig
 
 config = SetupRunnerConfig(
-    github_username='your_github_username',
-    github_token='your_github_token',
-    github_project_url='your_github_project_url'
+github_project_url='your_github_project_url'
 )
 
 runner = SetupRunner(config)
@@ -67,8 +65,3 @@ An e-commerce platform supporting 10,000+ products with an ML-powered recommenda
 I welcome contributions to enhance my projects and explore new ideas together. If you're interested, feel free to raise issues, fork repositories, or start a discussion on [GitHub](https://github.com/thesunnysinha)!  
 
 ---
-
-<div align="center">
-  <h3>Let's Simplify, Automate, and Innovate Together! 💡</h3>
-  <img src="https://media.giphy.com/media/5WJ6SOKeEFeS1DPj2f/giphy.gif" width="400"/>
-</div>
