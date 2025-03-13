@@ -11,7 +11,7 @@ Hi! I'm **Sunny Kumar Sinha**, a passionate software developer with expertise in
 
 - 🌟 **Open to Collaborations** on exciting projects.  
 - 🚀 Always striving to innovate and simplify processes.  
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/thesunnysinha) or check out my [Portfolio](https://www.sunnysinha.online).  
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/thesunnysinha) or check out my [Portfolio](https://www.sunnysinha.space).  
 
 ---
 
