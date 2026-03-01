@@ -61,6 +61,6 @@ An e-commerce platform supporting 10,000+ products with an ML-powered recommenda
 
 ## 🌟 Contributions  
 
-I welcome contributions to enhance my projects and explore new ideas together. If you're interested, feel free to raise issues, fork repositories, or start a discussion on [GitHub](https://github.com/thesunnysinha)!  
+I welcome contributions to enhance my projects and explore new ideas together. If you're interested, feel free to raise issues, fork repositories, or start a discussion !  
 
 ---
